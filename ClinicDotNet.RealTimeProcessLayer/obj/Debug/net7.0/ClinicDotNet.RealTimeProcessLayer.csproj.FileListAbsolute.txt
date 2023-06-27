@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Dev\project\ClinicDotNet\ClinicDotNet\ClinicDotNet.RealTimeProcessLayer\bin\Debug\net7.0\ClinicDotNet.RealTimeProcessLayer.deps.json
+C:\Users\Admin\Documents\Dev\project\ClinicDotNet\ClinicDotNet\ClinicDotNet.RealTimeProcessLayer\bin\Debug\net7.0\ClinicDotNet.RealTimeProcessLayer.dll
+C:\Users\Admin\Documents\Dev\project\ClinicDotNet\ClinicDotNet\ClinicDotNet.RealTimeProcessLayer\bin\Debug\net7.0\ClinicDotNet.RealTimeProcessLayer.pdb
+C:\Users\Admin\Documents\Dev\project\ClinicDotNet\ClinicDotNet\ClinicDotNet.RealTimeProcessLayer\bin\Debug\net7.0\ClinicDotNet.DAL.dll
+C:\Users\Admin\Documents\Dev\project\ClinicDotNet\ClinicDotNet\ClinicDotNet.RealTimeProcessLayer\bin\Debug\net7.0\ClinicDotNet.DAL.pdb
+C:\Users\Admin\Documents\Dev\project\ClinicDotNet\ClinicDotNet\ClinicDotNet.RealTimeProcessLayer\obj\Debug\net7.0\ClinicDotNet.RealTimeProcessLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Dev\project\ClinicDotNet\ClinicDotNet\ClinicDotNet.RealTimeProcessLayer\obj\Debug\net7.0\ClinicDotNet.RealTimeProcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Dev\project\ClinicDotNet\ClinicDotNet\ClinicDotNet.RealTimeProcessLayer\obj\Debug\net7.0\ClinicDotNet.RealTimeProcessLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Dev\project\ClinicDotNet\ClinicDotNet\ClinicDotNet.RealTimeProcessLayer\obj\Debug\net7.0\ClinicDotNet.RealTimeProcessLayer.AssemblyInfo.cs
+C:\Users\Admin\Documents\Dev\project\ClinicDotNet\ClinicDotNet\ClinicDotNet.RealTimeProcessLayer\obj\Debug\net7.0\ClinicDotNet.RealTimeProcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Dev\project\ClinicDotNet\ClinicDotNet\ClinicDotNet.RealTimeProcessLayer\obj\Debug\net7.0\ClinicDotNet.RealTimeProcessLayer.csproj.CopyComplete
+C:\Users\Admin\Documents\Dev\project\ClinicDotNet\ClinicDotNet\ClinicDotNet.RealTimeProcessLayer\obj\Debug\net7.0\ClinicDotNet.RealTimeProcessLayer.dll
+C:\Users\Admin\Documents\Dev\project\ClinicDotNet\ClinicDotNet\ClinicDotNet.RealTimeProcessLayer\obj\Debug\net7.0\refint\ClinicDotNet.RealTimeProcessLayer.dll
+C:\Users\Admin\Documents\Dev\project\ClinicDotNet\ClinicDotNet\ClinicDotNet.RealTimeProcessLayer\obj\Debug\net7.0\ClinicDotNet.RealTimeProcessLayer.pdb
+C:\Users\Admin\Documents\Dev\project\ClinicDotNet\ClinicDotNet\ClinicDotNet.RealTimeProcessLayer\obj\Debug\net7.0\ref\ClinicDotNet.RealTimeProcessLayer.dll
